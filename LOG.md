@@ -6,4 +6,4 @@ Today I had an introduction to JS. I earnt about the various datatypes and how t
 Also creatd some window alerts
 Link - https://github.com/codeDaydreamer/JS---Datatypes
 ### Thoughts : 
-Javascript seems Interesting o learn.
+Javascript seems Interesting to learn.
