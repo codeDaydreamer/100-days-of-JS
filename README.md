@@ -1,1 +1,2 @@
 # 100-days-of-JS
+Welcome to my 100 Days of JavaScript challenge! Over the next 100 days, I'll be dedicating at least an hour each day to coding in JavaScript. Through this challenge, I aim to strengthen my skills, tackle new projects, and explore the depth of this powerful programming language. Follow along with my journey as I document my progress and share my learnings with the community. Let's dive into the world of JavaScript together and embark on this exciting coding adventure!
