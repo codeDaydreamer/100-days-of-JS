@@ -17,3 +17,4 @@ i converted datatypes from one form to another and also tackled arithmetic opera
 So far,everythings working perfectly.
 
 Link to arithmetic operators - https://github.com/codeDaydreamer/arithmetic-operators
+Link to user inputs - https://github.com/codeDaydreamer/user-inputs
