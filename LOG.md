@@ -29,3 +29,14 @@ I used HTML to create the game stracture and CSS to style the UI.
 Coding can be fun ,no its fun🎉😂
 
 **Link to Work -** https://github.com/codeDaydreamer/JS-Math-operations
+## Day 4: March 13,2024
+### Today's progress :
+Today i created a simple discount and payment-option checker for a site using IF and Case statements in Javascriot. i'm now comfortable with the IF statements and the Case which is more suited for various conditions than the IF statement.
+### Thoughts : 
+Coding is like creating art.You first have to visualize what you want to create then use the brush and canvas to bring your design to life.
+
+
+
+
+
+**Link to work-** https://github.com/codeDaydreamer/IF-and-Case-Statements
