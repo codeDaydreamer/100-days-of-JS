@@ -21,7 +21,7 @@ Link to arithmetic operators - https://github.com/codeDaydreamer/arithmetic-oper
 Link to user inputs - https://github.com/codeDaydreamer/user-inputs
 
 
-## Day 3: March 14,2024
+## Day 3: March 13,2024
 ### Today's progress :
 Today I did something fun,i created a simple dice game🎮!. I also learnt of the JS-Math object and used it to create a counter program.
 I used HTML to create the game stracture and CSS to style the UI.
@@ -29,7 +29,7 @@ I used HTML to create the game stracture and CSS to style the UI.
 Coding can be fun ,no its fun🎉😂
 
 **Link to Work -** https://github.com/codeDaydreamer/JS-Math-operations
-## Day 4: March 13,2024
+## Day 4: March 14,2024
 ### Today's progress :
 Today i created a simple discount and payment-option checker for a site using IF and Case statements in Javascriot. i'm now comfortable with the IF statements and the Case which is more suited for various conditions than the IF statement.
 ### Thoughts : 
