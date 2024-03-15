@@ -35,8 +35,11 @@ Today I created a simple discount and payment-option checker for a site using IF
 ### Thoughts : 
 Coding is like creating art.You first have to visualize what you want to create then use the brush and canvas to bring your design to life🎨.
 
-
-
-
-
 **Link to work-** https://github.com/codeDaydreamer/IF-and-Case-Statements
+## Day 5: March 15,2024
+### Today's progress :
+Today i learnt about the various string methods and techniques in javascript.
+### Thoughts : 
+Not sure yet where i will use these methods but,seeing as they're in the syllabus,why not 😂😂
+
+**Link to work-** https://github.com/codeDaydreamer/string-methods
