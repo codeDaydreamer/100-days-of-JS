@@ -47,6 +47,6 @@ Not sure yet where i will use these methods but,seeing as they're in the syllabu
 ### Today's progress :
 Today I learnt about the method-chaining feature in JS. Its really good as it saves space interms of lines of code written.
 ### Thoughts : 
-Seens like even coding has some cheatcodes here n there.
+Seems like even coding has some cheatcodes here n there.
 
 **Link to work-** https://github.com/codeDaydreamer/method-chaining
