@@ -43,3 +43,10 @@ Today i learnt about the various string methods and techniques in javascript.
 Not sure yet where i will use these methods but,seeing as they're in the syllabus,why not 😂😂
 
 **Link to work-** https://github.com/codeDaydreamer/string-methods
+## Day 6: March 16,2024
+### Today's progress :
+Today I learnt about the method-chaining feature in JS. Its really good as it saves space interms of lines of code written.
+### Thoughts : 
+Seens like even coding has some cheatcodes here n there.
+
+**Link to work-** https://github.com/codeDaydreamer/method-chaining
