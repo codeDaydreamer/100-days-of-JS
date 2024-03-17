@@ -56,4 +56,4 @@ Today I learnt of the equality and the strict equality operator. I also learnt o
 ### Thoughts :
 A single sign in JS could change the entire logic,
 
-**Link to work-**https://github.com/codeDaydreamer/equality-operator
+**Link to work-** https://github.com/codeDaydreamer/equality-operator
