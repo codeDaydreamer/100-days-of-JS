@@ -55,4 +55,5 @@ Seems like even coding has some cheatcodes here n there.
 Today I learnt of the equality and the strict equality operator. I also learnt of the strict inequality operator which is the inverse.
 ### Thoughts :
 A single sign in JS could change the entire logic,
+
 **Link to work-**https://github.com/codeDaydreamer/equality-operator
