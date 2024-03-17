@@ -50,3 +50,9 @@ Today I learnt about the method-chaining feature in JS. Its really good as it sa
 Seems like even coding has some cheatcodes here n there.
 
 **Link to work-** https://github.com/codeDaydreamer/method-chaining
+## Day 7: March 17,2024
+### Today's progress :
+Today I learnt of the equality and the strict equality operator. I also learnt of the strict inequality operator which is the inverse.
+### Thoughts :
+A single sign in JS could change the entire logic,
+**Link to work-**https://github.com/codeDaydreamer/equality-operator
