@@ -57,3 +57,11 @@ Today I learnt of the equality and the strict equality operator. I also learnt o
 A single sign in JS could change the entire logic,
 
 **Link to work-** https://github.com/codeDaydreamer/equality-operator
+## Day 8: March 18,2024
+### Today's progress :
+I got to learn the FOR and While loops in JS. I learnt how to break from one and how to skip an iteration if a certain condition is met.
+
+### Thoughts :
+These loops will come in handy soon.
+
+**Link to work-** https://github.com/codeDaydreamer/loops
