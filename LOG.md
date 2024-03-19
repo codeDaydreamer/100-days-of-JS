@@ -72,5 +72,11 @@ I got to learn how functions are defined and called in JS. I learnt how they are
 
 ### Thoughts :
 Functions save time since the logic is only defined once and can be called from other areas within the code. This prevents repeating code.
+### Just a BTW;
+Some argue that JavaScript is not truly object oriented because it does not provide information hiding. That is, objects cannot have private variables and private methods: All members are public.
+
+But it turns out that JavaScript objects can have private variables and private methods.Of course, few understand this because JavaScript is the world's most misunderstood programming language.
+
+Some argue that JavaScript is not truly object oriented because it does not provide inheritance. But it turns out that JavaScript supports not only classical inheritance, but other code reuse patterns as well.,I would say it has capabilities to seem OO.😅🌚
 
 **Link to work-** https://github.com/codeDaydreamer/Functions
