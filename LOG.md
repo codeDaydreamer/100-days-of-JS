@@ -65,3 +65,12 @@ I got to learn the FOR and While loops in JS. I learnt how to break from one and
 These loops will come in handy soon.
 
 **Link to work-** https://github.com/codeDaydreamer/loops
+
+# Day 9: March 19,2024
+### Today's progress :
+I got to learn how functions are defined and called in JS. I learnt how they are used to manage the functionality of HTML components such as buttons.
+
+### Thoughts :
+Functions save time since the logic is only defined once and can be called from other areas within the code. This prevents repeating code.
+
+**Link to work-** https://github.com/codeDaydreamer/Functions
