@@ -80,3 +80,10 @@ But it turns out that JavaScript objects can have private variables and private 
 Some argue that JavaScript is not truly object oriented because it does not provide inheritance. But it turns out that JavaScript supports not only classical inheritance, but other code reuse patterns as well.,I would say it has capabilities to seem OO.😅🌚
 
 **Link to work-** https://github.com/codeDaydreamer/Functions
+# Day 10: March 20,2024
+### Today's progress :
+I created temperature unit-converter using HTML,CSS and JS.
+### Thoughts :
+10 days down the line ,the future still seems promising.
+
+**Link to work-** https://github.com/codeDaydreamer/temperature-converter
