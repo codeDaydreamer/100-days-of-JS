@@ -87,3 +87,11 @@ I created temperature unit-converter using HTML,CSS and JS.
 10 days down the line ,the future still seems promising.
 
 **Link to work-** https://github.com/codeDaydreamer/temperature-converter
+
+# Day 11: March 21,2024
+### Today's progress :
+Had an introduction to arrays in javascript.
+### Thoughts :
+its getting more real.
+
+**Link to work-** https://github.com/codeDaydreamer/arrays
