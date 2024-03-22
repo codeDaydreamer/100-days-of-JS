@@ -95,3 +95,11 @@ Had an introduction to arrays in javascript.
 its getting more real.
 
 **Link to work-** https://github.com/codeDaydreamer/arrays
+
+# Day 12: March 22,2024
+### Today's progress :
+Took a much deeper dive into arrays in javascript.
+### Thoughts :
+Happy hacking 😂🥂
+
+**Link to work-** https://github.com/codeDaydreamer
