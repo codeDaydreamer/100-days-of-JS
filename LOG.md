@@ -103,3 +103,10 @@ Took a much deeper dive into arrays in javascript.
 Happy hacking 😂🥂
 
 **Link to work-** https://github.com/codeDaydreamer
+
+# Day 13: March 23,2024
+### Today's progress :
+Still in Arrays. Used my knowledge in functions and arrays to come up with a simple program to add and manage members of an organisation.
+### Thoughts :
+There are those days that you just have to put an extra gear so as to get enough power. 💥
+**Link to work-** https://github.com/codeDaydreamer/Arrays-project
