@@ -110,3 +110,9 @@ Still in Arrays. Used my knowledge in functions and arrays to come up with a sim
 ### Thoughts :
 There are those days that you just have to put an extra gear so as to get enough power. 💥
 **Link to work-** https://github.com/codeDaydreamer/Arrays-project
+
+# Day 14: March 24,2024
+### Today's progress :
+Teo weeks down the line,I decided to do a revision of what I've learnt do far. I went through all my previous files and did some practice on them.
+### Thoughts :
+Mental high five 😅🙌
