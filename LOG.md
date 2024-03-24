@@ -113,6 +113,6 @@ There are those days that you just have to put an extra gear so as to get enough
 
 # Day 14: March 24,2024
 ### Today's progress :
-Teo weeks down the line,I decided to do a revision of what I've learnt do far. I went through all my previous files and did some practice on them.
+Two weeks down the line,I decided to do a revision of what I've learnt so far. I went through all my previous files and did some practice on them.
 ### Thoughts :
 Mental high five 😅🙌
