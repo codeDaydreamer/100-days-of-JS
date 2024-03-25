@@ -116,3 +116,12 @@ There are those days that you just have to put an extra gear so as to get enough
 Two weeks down the line,I decided to do a revision of what I've learnt so far. I went through all my previous files and did some practice on them.
 ### Thoughts :
 Mental high five 😅🙌
+
+# Day 15: March 25,2024
+### Today's progress :
+Today I Worked on a project I started yesterday, a simple portfolio website. 
+### Thoughts :
+Some bugs here n there on the annimations and I still can't find them🥲.
+We try again tomorrow.
+**Link to work-** 
+https://github.com/codeDaydreamer/My-Codespace
