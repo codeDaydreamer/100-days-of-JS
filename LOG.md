@@ -125,3 +125,11 @@ Some bugs here n there on the annimations and I still can't find them🥲.
 We try again tomorrow.
 **Link to work-** 
 https://github.com/codeDaydreamer/My-Codespace
+
+# Day 16: March 26,2024
+### Today's progress :
+Continued working on my portfolio.
+### Thoughts :
+It's comming up well. The dark mode seems better.
+**Link to work-** 
+https://github.com/codeDaydreamer/My-Codespace
