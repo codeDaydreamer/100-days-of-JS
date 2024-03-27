@@ -133,3 +133,11 @@ Continued working on my portfolio.
 It's comming up well. The dark mode seems better.
 **Link to work-** 
 https://github.com/codeDaydreamer/My-Codespace
+
+# Day 17: March 27,2024
+### Today's progress :
+Today I deployed my site on github pages.
+### Thoughts :
+The UI is appealing, just need to edit some responsiveness to make it suitable for the mobile phone devices. 
+**Link to work-** 
+https://github.com/codeDaydreamer/backup-codespace/
