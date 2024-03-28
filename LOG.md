@@ -141,3 +141,12 @@ Today I deployed my site on github pages.
 The UI is appealing, just need to edit some responsiveness to make it suitable for the mobile phone devices. 
 **Link to work-** 
 https://github.com/codeDaydreamer/backup-codespace/
+
+# Day 18: March 28,2024
+### Today's progress :
+Today I developed a random password generator.
+### Thoughts :
+It's the little projects that matter ✨😌
+
+**Link to work-** 
+https://github.com/codeDaydreamer/Password-generator
