@@ -150,3 +150,13 @@ It's the little projects that matter ✨😌
 
 **Link to work-** 
 https://github.com/codeDaydreamer/Password-generator
+
+
+# Day 19: March 29,2024
+### Today's progress :
+I worked on adding some JS scripts on my website. 
+### Thoughts :
+I'm impressed with my progress.✨😌
+
+**Link to work-** 
+https://github.com/codeDaydreamer/Password-generator
