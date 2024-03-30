@@ -160,3 +160,12 @@ I'm impressed with my progress.✨😌
 
 **Link to work-** 
 https://github.com/codeDaydreamer/Password-generator
+
+# Day 20: March 30,2024
+### Today's progress :
+I worked on callbacks in JS. 
+### Thoughts :
+... interesting 😅
+
+**Link to work-** 
+https://github.com/codeDaydreamer/callbacks
