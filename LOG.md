@@ -169,3 +169,9 @@ I worked on callbacks in JS.
 
 **Link to work-** 
 https://github.com/codeDaydreamer/callbacks
+
+### Day 21: March 31,2024
+### Today's progress :
+Today I took time analyzing what I've done, this month. I revisited all my projects. 
+### Thoughts :
+Wueh 😂... learning to code is a jani☘️.
