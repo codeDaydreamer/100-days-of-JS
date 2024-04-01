@@ -175,3 +175,12 @@ https://github.com/codeDaydreamer/callbacks
 Today I took time analyzing what I've done, this month. I revisited all my projects. 
 ### Thoughts :
 Wueh 😂... learning to code is a jani☘️.
+
+
+
+# Day 22: April 1,2024
+### Today's progress :
+Today I added scripts to enable a website switch colors in relation to the user. 
+### Thoughts :
+April brings new energy💥
+
