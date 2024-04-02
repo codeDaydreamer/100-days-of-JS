@@ -187,3 +187,13 @@ April brings new energy💥
 **Link to work-** 
 https://github.com/codeDaydreamer/backup-codespace/
 
+
+# Day 23: April 2,2024
+### Today's progress :
+Today I added learnt about callbacks in JS. 
+### Thoughts :
+With the ongoing exams, it's going to be tough 🥲
+
+**Link to work-** 
+https://github.com/codeDaydreamer/callbac
+
