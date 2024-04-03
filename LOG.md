@@ -197,3 +197,14 @@ With the ongoing exams, it's going to be tough 🥲
 **Link to work-** 
 https://github.com/codeDaydreamer/callbac
 
+# Day 24: April 3,2024
+### Today's progress :
+Today I created a simple to-do list
+### Thoughts :
+Its the little projects that matter☘️
+
+**Link to work-** 
+https://github.com/codeDaydreamer/To-do-list
+
+
+
