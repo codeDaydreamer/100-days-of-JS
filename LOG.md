@@ -206,5 +206,14 @@ Its the little projects that matter☘️
 **Link to work-** 
 https://github.com/codeDaydreamer/To-do-list
 
+# Day 25: April 4,2024
+### Today's progress :
+Today I learnt the foreach() method in JS.
+### Thoughts :
+The method makes dealing with arrays much easier.
+
+**Link to work-** 
+https://github.com/codeDaydreamer/For-each
+
 
 
