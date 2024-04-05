@@ -215,7 +215,7 @@ The method makes dealing with arrays much easier.
 **Link to work-** 
 https://github.com/codeDaydreamer/For-each
 
-#Day 26: April 4,2024
+# Day 26: April 4,2024
 ### Today's progress :
 Today I created a beautiful search bar using html, css and JS.
 ### Thoughts :
