@@ -1,4 +1,4 @@
-# 100 Days Of JS - Log
+no# 100 Days Of JS - Log
 
 ## Day 1: March 11,2024
 ### Today's progress : 
@@ -215,5 +215,13 @@ The method makes dealing with arrays much easier.
 **Link to work-** 
 https://github.com/codeDaydreamer/For-each
 
+#Day 26: April 4,2024
+### Today's progress :
+Today I created a beautiful search bar using html, css and JS.
+### Thoughts :
+Turns out some things aren't as easy as they seem🌚
+
+**Link to work-** 
+https://github.com/codeDaydreamer/search-bar
 
 
