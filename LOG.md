@@ -224,4 +224,12 @@ Turns out some things aren't as easy as they seem🌚
 **Link to work-** 
 https://github.com/codeDaydreamer/search-bar
 
+# Day 27: April 6,2024
+### Today's progress :
+Did a bit on woocommerce, learnt abit on how it works. 
+### Thoughts :
+It's a much easier alternative but hard source code is better 😅
+
+No link today👐
+
 
