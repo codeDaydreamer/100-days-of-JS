@@ -5,7 +5,7 @@ no# 100 Days Of JS - Log
 Today I had an introduction to JS. I learnt about the various datatypes and how to change the content of a html element.
 Also creatd some window alerts
 
-Link - https://github.com/codeDaydreamer/JS---Datatypes
+Link - [Day 1](https://github.com/codeDaydreamer/100-days-of-JS/tree/main/Day1)
 ### Thoughts : 
 Javascript seems Interesting to learn. I'm positive my skills will grow significantly over the next few weeks. 
 
