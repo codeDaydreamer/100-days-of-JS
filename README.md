@@ -24,7 +24,7 @@ My primary goals for this challenge are:
 - **Consistent Learning Habits**: Develop a habit of consistent learning and coding practice, even on busy days.
 
 ## Progress
-You can track my progress and follow along with the challenge through the Daily Logs section.
+You can track my progress and follow along with the challenge through the [Daily Logs](https://github.com/codeDaydreamer/100-days-of-JS/blob/main/LOG.md) section.
 
 ## Let's Connect
 I'm excited to share this journey with you! Feel free to reach out, share your own experiences, or join me in this challenge. You can connect with me on [Twitter](https://twitter.com/example), [LinkedIn](https://linkedin.com/in/example), or [GitHub](https://github.com/example).
